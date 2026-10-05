@@ -59,7 +59,7 @@ Matched cards become invisible while keeping their positions in the grid. This k
 
 ## License
 
-    Copyright 2026 [nafisa nusha]
+    Copyright 2026 nafisa nusha
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
